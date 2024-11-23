@@ -27,7 +27,7 @@ md"
 
 # ╔═╡ 22a81f3f-a864-4419-bd93-de83c316796a
 md"""
-$(LocalResource("/home/rengneichuong/Preflection.png"))
+$(Resource("https://github.com/rkoireng/pluto/blob/main/Preflection.png?raw=true"))
 """
 
 # ╔═╡ 381271ef-9b5c-4f45-836a-d09f1021627e
